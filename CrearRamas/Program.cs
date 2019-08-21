@@ -9,7 +9,6 @@ namespace CrearRamas
             Console.WriteLine("Hello World!");
             Console.WriteLine("Ramas!");
             Console.WriteLine("Nueva edicion!");
-            Console.WriteLine("Nueva edicion2!");
         }
     }
 }
